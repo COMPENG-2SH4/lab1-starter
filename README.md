@@ -1,7 +1,7 @@
 # compeng2sh4-lab1-starter
 
-Section: [Insert your lab section]
+Section: L04
 
-MacID: [Insert your macID here]
+MacID: cherij2
 
-StudentID: [Insert your numerical student ID here]
+StudentID: 400381481
